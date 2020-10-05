@@ -5,7 +5,7 @@ i -- inkh, int
 u -- ullu, uun
 u -- unkh
 Rh -- Rishi
-ae -- aedi, 
+ae -- aedi, ektara 
 ai -- ainak, 
 o -- Onkhli, oos 
 au -- Aurat, aujar, 
@@ -20,9 +20,9 @@ gh -- ghar, ghanta,
 ang -- 
 
 
-ch  -- 
-cha --
-j   -- 
+ch  -- chakka, chamgadad, chammach, chatai
+cha -- chatri, 
+j   -- jag, jalegi, jahaj
 zha -- 
 ung --
 
