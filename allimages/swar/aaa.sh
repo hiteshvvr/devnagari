@@ -1,0 +1,13 @@
+mv aai_ainak-1.jpg  aai_ainak.jpg 
+mv aa_aam-1.jpg     aa_aam.jpg    
+mv a_anar-1.jpg     a_anar.jpg    
+mv ae_aedi-1.jpg    ae_aedi.jpg   
+mv aha-1.jpg        aha.jpg       
+mv am_angutha-1.jpg am_angutha.jpg
+mv au_aurat-1.jpg   au_aurat.jpg  
+mv e_emli-1.jpg     e_emli.jpg    
+mv i_inkh-1.jpg     i_inkh.jpg    
+mv o_ookhli-1.jpg   o_ookhli.jpg  
+mv o_oon-1.jpg      o_oon.jpg     
+mv rh_rishi-1.jpg   rh_rishi.jpg  
+mv u_ullu-1.jpg     u_ullu.jpg    
